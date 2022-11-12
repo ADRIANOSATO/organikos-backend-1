@@ -8,7 +8,7 @@ module.exports = class GetSellerByTagService {
             return [
                 {
                     sellerId: '123e4567-e89b-12d3-a456-426614174000',
-                    name: 'Horta da Dona Clara',
+                    name: 'Horta da Clara',
                     desc: 'Aqui você encontra os melhores legumes',
                     phone: '1181239856',
                     email: 'horta@email.com',
